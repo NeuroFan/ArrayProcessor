@@ -6,6 +6,11 @@ TTA processors were arranged on a grid. A FU is added to TTAs to communicate wit
 
 Simulation files for following paper:
 
-Safarpour, Mehdi, Ilkka Hautala, Miguel Bordallo López, and Olli Silvén. "Transport Triggered Array Processor for Vision Applications." In International Conference on Embedded Computer Systems, pp. 361-372. Springer, Cham, 2019.
+*Safarpour, Mehdi, Ilkka Hautala, Miguel Bordallo López, and Olli Silvén. "Transport Triggered Array Processor for Vision Applications." In International Conference on Embedded Computer Systems, pp. 361-372. Springer, Cham, 2019.*
 
+Models the following structure with TTA processors as processing elements:
  ![alt text](https://github.com/NeuroFan/ArrayProcessor_SystemC/blob/main/array_structure.PNG)
+                       Structure of array
+                       
+![alt text](https://github.com/NeuroFan/ArrayProcessor_SystemC/blob/main/ProcessingElementModel.png)
+                  PE model     
